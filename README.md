@@ -9,7 +9,7 @@ This requires you to have access to the concole, so if starting a new blender wi
 
 To run this go to the script tab and append this script, run it, and go to the console for results.
 
-Results should looks something like
+Results should look something like
 
 ```
 for Material the total nodes used are 16
